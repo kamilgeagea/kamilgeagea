@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kamilgeagea
-- 👀 I’m interested in high-frequency trading
+- 👀 I’m interested in systems computing and algorithms
 - 🌱 I’m currently learning c++, operating systems, and networking
 - 💞️ I’m looking to collaborate on low-level open-source projects
 - 📫 How to reach me kamilgeagea8199@gmail.com
